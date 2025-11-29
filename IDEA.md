@@ -10,3 +10,8 @@
 - User shuold be able to fetch more (past) letters.
 - Usser shuold be able to navigate to to the original page of the letter.
 - Store questions that user asked. When user revisit same letter the old question and answers should be there and user should be able to see them. Allow user to delete past questions and answers.
+- Use uv to init the project.
+- Always use UV for package management, environment management and running any code.
+- Store all data in SQLite
+- User should be able to get new news letters.
+- User should be able to fetch more past letters.
