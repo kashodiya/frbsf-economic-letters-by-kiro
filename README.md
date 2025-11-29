@@ -2,6 +2,31 @@
 
 AI-powered analysis of Federal Reserve Bank of San Francisco (FRBSF) economic letters using AWS Bedrock.
 
+## 📸 Application Screenshots
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="screenshots/01-letter-list.png" alt="Letter List" />
+      <p align="center"><b>Browse Economic Letters</b></p>
+    </td>
+    <td width="50%">
+      <img src="screenshots/02-letter-detail.png" alt="Letter Detail" />
+      <p align="center"><b>View Letter Details</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="screenshots/03-question-input.png" alt="Question Input" />
+      <p align="center"><b>Ask Questions</b></p>
+    </td>
+    <td width="50%">
+      <img src="screenshots/04-ai-response.png" alt="AI Response" />
+      <p align="center"><b>Get AI-Powered Insights</b></p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🚀 Built by Kiro AI in 45 Minutes
